@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Bear</folder>
+  <filename>89bd58bf8854586e.jpg</filename>
+  <path>/media/seanboyd/XRay-2 Data/SparrowTech/Datasets/OIDv5_ToolKit/OID/Dataset/train/Bear/89bd58bf8854586e.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>685</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>88</ymin>
+      <xmax>671</xmax>
+      <ymax>684</ymax>
+    </bndbox>
+  </object>
+</annotation>
